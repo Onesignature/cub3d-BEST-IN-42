@@ -1,5 +1,5 @@
+### Cub3D
 ```markdown
-# Cub3D
 
 ## Overview
 
