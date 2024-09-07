@@ -74,8 +74,4 @@ Example of a simple map:
 
 - [42 Cub3D subject](https://cdn.intra.42.fr/pdf/pdf/122814/en.subject.pdf)
 - [BEST TUTORIAL FOR RAYCASTING, PLEASE USE THIS AND UNDERSTAND IT INSTEAD OF COPY PASTING LODEV CODE](https://pikuma.com/courses/raycasting-engine-tutorial-algorithm-javascript)
-
-## License
-
-This project is part of the 42 curriculum and follows its regulations.
 ```
