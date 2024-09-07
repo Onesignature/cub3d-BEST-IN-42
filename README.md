@@ -1,4 +1,4 @@
-### Cub3D
+### Cub3D - USE OUR LEARNING RESOURCE FOR RAYCASTING
 ```markdown
 
 ## Overview
